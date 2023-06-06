@@ -1,17 +1,29 @@
-### Opa, bão? 👋
-<div>
-  Meu nome é Arthur e sou estudante de Ciência da Computação!
-</div>
+<h1 align="center">Opa, bão? <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Bem-vindo!</b><br><br>
+    <i>
+        Sou Arthur.<br>
+        Atualmente estudando Ciência da Computação.<br>
+    </i><br>
+</p>
 
 <br>
+
+<p align="center">
+  <a href="https://github.com/oArthuco">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oArthuco&theme=calm" />
+  </a>
+  <a href="https://github.com/oArthuco">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oArthuco&theme=calm" />
+  </a>
+  <a href="https://github.com/oArthuco">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oArthuco&theme=calm" />
+  </a>
+</p>
+
 <br>
 
-<div>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=oArthuco&show_icons=true&theme=calm">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oArthuco&layout=compact&theme=calm">
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="oArthuco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="oArthuco-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+### Linguagens de Programação
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/oArthuco)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/oArthuco)
