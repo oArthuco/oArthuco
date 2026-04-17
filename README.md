@@ -3,8 +3,8 @@
 <p align="center">
     <b>Bem-vindo!</b><br><br>
     <i>
-        Sou Arthur.<br>
-        Atualmente estudando Ciência da Computação.<br>
+        Me chamo Arthur Pachêco.<br>
+        <!-- Atualmente estudando Ciência da Computação.<br> -->
     </i><br>
 </p>
 
@@ -24,6 +24,9 @@
 
 <br>
 
+<!--
 ### Linguagens de Programação
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/oArthuco)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/oArthuco)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/oArthuco)
+-->
